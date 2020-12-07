@@ -1,0 +1,26 @@
+#calculator {
+    display: flex;
+    width: 500px;
+    margin: 0 auto;
+}
+
+#numbers {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90px;
+    justify-content: center;
+}
+
+#operations {
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+}
+
+.btnNum, .btn {
+    margin: 2px;
+}
+
+#firstNumber, #secondNumber {
+    display: none;
+}
