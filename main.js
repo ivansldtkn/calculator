@@ -84,65 +84,61 @@ window.onload = function () {
                 secondNumber.append('1');
                 expression.append(`1`);
             };
-        
+
             let numTwo = document.getElementById('two');
             numTwo.onclick = function () {
                 secondNumber.append('2');
                 expression.append(`2`);
             };
-        
+
             let numThree = document.getElementById('three');
             numThree.onclick = function () {
                 secondNumber.append('3');
                 expression.append(`3`);
             };
-        
+
             let numFour = document.getElementById('four');
             numFour.onclick = function () {
                 secondNumber.append('4');
                 expression.append(`4`);
             };
-        
+
             let numFive = document.getElementById('five');
             numFive.onclick = function () {
                 secondNumber.append('5');
                 expression.append(`5`);
             };
-        
+
             let numSix = document.getElementById('six');
             numSix.onclick = function () {
                 secondNumber.append('6');
                 expression.append(`6`);
             };
-        
+
             let numSeven = document.getElementById('seven');
             numSeven.onclick = function () {
                 secondNumber.append('7');
                 expression.append(`7`);
             };
-        
+
             let numEight = document.getElementById('eight');
             numEight.onclick = function () {
                 secondNumber.append('8');
                 expression.append(`8`);
             };
-        
+
             let numNine = document.getElementById('nine');
             numNine.onclick = function () {
                 secondNumber.append('9');
                 expression.append(`9`);
             };
-        
+
             let numZero = document.getElementById('zero');
             numZero.onclick = function () {
                 secondNumber.append('0');
                 expression.append(`0`);
             };
-
-           
         }
-        
-       
     };
 
 // При нажатии на - =======================================================================================
@@ -152,8 +148,6 @@ window.onload = function () {
     let numMinus = document.getElementById('minus');
     numMinus.onclick = function () {
         expression.append(` - `);
-
-
         minusClicked = true;
 
         if (firstNumber.innerText != '') {
@@ -163,63 +157,61 @@ window.onload = function () {
                 secondNumber.append('1');
                 expression.append(`1`);
             };
-        
+
             let numTwo = document.getElementById('two');
             numTwo.onclick = function () {
                 secondNumber.append('2');
                 expression.append(`2`);
             };
-        
+
             let numThree = document.getElementById('three');
             numThree.onclick = function () {
                 secondNumber.append('3');
                 expression.append(`3`);
             };
-        
+
             let numFour = document.getElementById('four');
             numFour.onclick = function () {
                 secondNumber.append('4');
                 expression.append(`4`);
             };
-        
+
             let numFive = document.getElementById('five');
             numFive.onclick = function () {
                 secondNumber.append('5');
                 expression.append(`5`);
             };
-        
+
             let numSix = document.getElementById('six');
             numSix.onclick = function () {
                 secondNumber.append('6');
                 expression.append(`6`);
             };
-        
+
             let numSeven = document.getElementById('seven');
             numSeven.onclick = function () {
                 secondNumber.append('7');
                 expression.append(`7`);
             };
-        
+
             let numEight = document.getElementById('eight');
             numEight.onclick = function () {
                 secondNumber.append('8');
                 expression.append(`8`);
             };
-        
+
             let numNine = document.getElementById('nine');
             numNine.onclick = function () {
                 secondNumber.append('9');
                 expression.append(`9`);
             };
-        
+
             let numZero = document.getElementById('zero');
             numZero.onclick = function () {
                 secondNumber.append('0');
                 expression.append(`0`);
             };
-
-        } 
-
+        }
     };
 
 // При нажатии на / ===================================================================================================
@@ -238,66 +230,62 @@ window.onload = function () {
                 secondNumber.append('1');
                 expression.append(`1`);
             };
-        
+
             let numTwo = document.getElementById('two');
             numTwo.onclick = function () {
                 secondNumber.append('2');
                 expression.append(`2`);
             };
-        
+
             let numThree = document.getElementById('three');
             numThree.onclick = function () {
                 secondNumber.append('3');
                 expression.append(`3`);
             };
-        
+
             let numFour = document.getElementById('four');
             numFour.onclick = function () {
                 secondNumber.append('4');
                 expression.append(`4`);
             };
-        
+
             let numFive = document.getElementById('five');
             numFive.onclick = function () {
                 secondNumber.append('5');
                 expression.append(`5`);
             };
-        
+
             let numSix = document.getElementById('six');
             numSix.onclick = function () {
                 secondNumber.append('6');
                 expression.append(`6`);
             };
-        
+
             let numSeven = document.getElementById('seven');
             numSeven.onclick = function () {
                 secondNumber.append('7');
                 expression.append(`7`);
             };
-        
+
             let numEight = document.getElementById('eight');
             numEight.onclick = function () {
                 secondNumber.append('8');
                 expression.append(`8`);
             };
-        
+
             let numNine = document.getElementById('nine');
             numNine.onclick = function () {
                 secondNumber.append('9');
                 expression.append(`9`);
             };
-        
+
             let numZero = document.getElementById('zero');
             numZero.onclick = function () {
                 secondNumber.append('0');
                 expression.append(`0`);
             };
-
-           
         }
-
     };
-
 
 
 // При нажатии на * ===================================================================================================
@@ -316,65 +304,61 @@ window.onload = function () {
                 secondNumber.append('1');
                 expression.append(`1`);
             };
-        
+
             let numTwo = document.getElementById('two');
             numTwo.onclick = function () {
                 secondNumber.append('2');
                 expression.append(`2`);
             };
-        
+
             let numThree = document.getElementById('three');
             numThree.onclick = function () {
                 secondNumber.append('3');
                 expression.append(`3`);
             };
-        
+
             let numFour = document.getElementById('four');
             numFour.onclick = function () {
                 secondNumber.append('4');
                 expression.append(`4`);
             };
-        
+
             let numFive = document.getElementById('five');
             numFive.onclick = function () {
                 secondNumber.append('5');
                 expression.append(`5`);
             };
-        
+
             let numSix = document.getElementById('six');
             numSix.onclick = function () {
                 secondNumber.append('6');
                 expression.append(`6`);
             };
-        
+
             let numSeven = document.getElementById('seven');
             numSeven.onclick = function () {
                 secondNumber.append('7');
                 expression.append(`7`);
             };
-        
+
             let numEight = document.getElementById('eight');
             numEight.onclick = function () {
                 secondNumber.append('8');
                 expression.append(`8`);
             };
-        
+
             let numNine = document.getElementById('nine');
             numNine.onclick = function () {
                 secondNumber.append('9');
                 expression.append(`9`);
             };
-        
+
             let numZero = document.getElementById('zero');
             numZero.onclick = function () {
                 secondNumber.append('0');
                 expression.append(`0`);
             };
-
-           
         }
-        
-       
     };
 
 // При нажатии на = ===============================================================================================
@@ -393,16 +377,13 @@ window.onload = function () {
         }
         if (minusClicked == true) {
             answerNum.append(first - second);
-        } 
+        }
         if (dividedClicked == true) {
             answerNum.append(first / second);
-        } 
+        }
         if (timesClicked == true) {
             answerNum.append(first * second);
         }
-        
     };
-
-
 
 };
